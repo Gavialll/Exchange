@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Курс валют</string>
+    <string name="exchange">EXCHANGE</string>
+    <string name="archive">Введіть дату</string>
+    <string name="buy">Купівля</string>
+    <string name="Sale">Продаж</string>
+</resources>
